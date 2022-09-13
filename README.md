@@ -1,2 +1,4 @@
 # khariza-azmi.github.io
-a CV of me
+
+## Nama : Khariza Azmi Alfajira Hisyam
+## NRP  : 5025201044
